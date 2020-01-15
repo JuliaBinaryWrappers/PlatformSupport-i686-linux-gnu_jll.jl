@@ -1,0 +1,9 @@
+[[PlatformSupport-i686-linux-gnu]]
+arch = "x86_64"
+git-tree-sha1 = "2df8668718802decd27a196a94337b75dc48e124"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-i686-linux-gnu.download]]
+    sha256 = "faf5855d699c26af4b3bdb3fa7a8b9a88fa335b8d045b20a7da0556fa01f4c03"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-i686-linux-gnu_jll.jl/releases/download/PlatformSupport-i686-linux-gnu-v2020.1.15+0/PlatformSupport-i686-linux-gnu.v2020.1.15.x86_64-linux-musl.tar.gz"
